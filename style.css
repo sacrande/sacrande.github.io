@@ -277,6 +277,10 @@ a {
     background-position: center;
 }
 
+.hdrbot {
+    padding-bottom: 72px;
+}
+
 .footer {
     padding-top: 480px;
 }
